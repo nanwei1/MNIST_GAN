@@ -43,9 +43,9 @@ Epoch 1:
 Epoch 5:
 <p align="center"> <img src=".//MNIST_GAN_CNN/samples/fake_images-5.png" width="300"/> </p>
 Epoch 10:
-<p align="center"> <img src=".//MNIST_GAN_CNN/samples/fake_images-10.png" width="300"/> </p>
-Epoch 15:
 <p align="center"> <img src=".//MNIST_GAN_CNN/samples/fake_images-15.png" width="300"/> </p>
+Epoch 15:
+<p align="center"> <img src=".//MNIST_GAN_CNN/samples/fake_images-25.png" width="300"/> </p>
 Epoch 20:
-<p align="center"> <img src=".//MNIST_GAN_CNN/samples/fake_images-20.png" width="300"/> </p>
+<p align="center"> <img src=".//MNIST_GAN_CNN/samples/fake_images-30.png" width="300"/> </p>
 
